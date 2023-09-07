@@ -7,8 +7,7 @@ In this README.md you will see:
 -I make this website more web accessible.
 -I will optimize the site for search engines.
 -I will create a Github repository
-    -https://github.com/jimbuckley412/Horiseon_Optimize_The_Future
-        -I will clone and use commands to save and push my code to the GitHub repository.
+https://github.com/jimbuckley412/Horiseon_Optimization_Into_The_Future        -I will clone and use commands to save and push my code to the GitHub repository.
 -I will use the repository to create a website to check and work on.
     -http://jimbuckley412.github.io/Horiseon_Optimize_The_Future
 -I wanted to impliment these changes to this website because Web accessibility is very important to get the most amount of people able to view the site.
@@ -92,7 +91,8 @@ SOFTWARE.
 <BADGES:> <h6 id="C6">Chapter 6</h6>
 <a href="https://www.freepik.com/free-vector/vector-black-white-retro-stamps-badges-isolated_10704966.htm#query=website%20badge&position=1&from_view=keyword&track=ais">Image by macrovector</a> on Freepik
 
-<FEATURES:> <h7 id="C7">Chapter 7</h7>
+<FEATURES:> <h7 id="C7">Chapter 7</h7> 
+(assets\images\horiseon.png) a screen shot of the working page
 
 <HOW TO CONTRIBUTE:> <h8 id="C8">Chapter 8</h8>
 CONTRIBUTOR COVENANT CODE OF CONDUCT
