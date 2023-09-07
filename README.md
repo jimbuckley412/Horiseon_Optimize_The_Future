@@ -33,7 +33,7 @@ Tests (135) <a href="C10"><jump to Chapter 10></a>
 <INSTALLATION:> <h3 id="C3">Chapter 3</h3>
 I first created a Repositorygit in GitHub.
 I creatively named my Repository Horiseon_Optimization_Into_The_Future.
-I did not create a README.md.
+I did create a README.md.
 I then cloned the Repository onto my computer by going into the gitbash.
 I imput git clone Horiseon_Optimization_Into_The_Future
 I then went to the source code and copied the source code to the repository.
@@ -153,8 +153,4 @@ Community Impact: Demonstrating a pattern of violation of community standards, i
 Consequence: A permanent ban from any sort of public interaction within the community.
 
 TESTS: <h10 id="C10">Chapter 10</h10>
-User acceptance testing to make sure that the user is able to work the website after deployment.
-API testing we can make sure that the security, reliability, and hteh efficency of the website works correctly.
-Sanity test to make sure that the fix in the code does nto interfere with the fundamental objective of the website.
-
->>>>>>> c2a0c80d2c8f338134ae6da74ada97fc9dac6c9d
+I tested the website by going to the website and checking the links and the functionality of the website.
